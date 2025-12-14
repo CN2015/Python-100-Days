@@ -42,8 +42,8 @@ print(“123”)
 ```
 print (123)print (456)
 ```
-两个print不能写在同一行，一个print必须单独写一行，错误信息中遇到**Syntax**说明语法有问题。
+两个print不能写在同一行，一个print必须单独写一行，错误信息中遇到**Syntax**说明语法有问题
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODg3NzUwMywtMTIyMzY5ODQ1XX0=
+eyJoaXN0b3J5IjpbNTkzODY4MjM5LC0xMjIzNjk4NDVdfQ==
 -->
