@@ -12,7 +12,8 @@
 <img width="874" height="287" alt="image" src="https://github.com/user-attachments/assets/a83ff80c-e2bb-4bd5-9d19-eb23233a4e42" />
 
 编译型语言：使用专门的编译器，针对特定的平台，将高级语言源代码一次性的编译成可被该平台硬件执行的机器码，并包装成该平台所能识别的可执行程序的格式。如：C语言、C++
-<img width="874" height="287" alt="image" src="https://github.com/user-attachments/assets/f28952bb-749a-4dd8-9405-94e6f41a4ff6" />
+<img width="909" height="222" alt="QQ_1765721230425" src="https://github.com/user-attachments/assets/04547185-2632-4080-bd4f-4d1db7b3f43b" />
+
 
 区别：
 1.编译性语言编译后就可以在平台运行，解释型语言在
