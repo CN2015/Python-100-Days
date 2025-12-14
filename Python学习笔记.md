@@ -9,9 +9,11 @@
 #区分：编译型语言 和 解释型语言
 
 解释型语言：使用专门的解释器对源码程序逐行解释成特定平台的机器并立即执行，是代码在执行时才被解释器一行行**动态翻译**和**轨行**，而不是在执行之前就完成翻译。
-![输入图片说明](/imgs/2025-12-14/z5tw0JOG4ETwaOxu.png)
+<img width="874" height="287" alt="image" src="https://github.com/user-attachments/assets/a83ff80c-e2bb-4bd5-9d19-eb23233a4e42" />
+
 编译型语言：使用专门的编译器，针对特定的平台，将高级语言源代码一次性的编译成可被该平台硬件执行的机器码，并包装成该平台所能识别的可执行程序的格式。如：C语言、C++
-![输入图片说明](/imgs/2025-12-14/wdw4IQ7L0YcxyGEv.png)
+<img width="874" height="287" alt="image" src="https://github.com/user-attachments/assets/f28952bb-749a-4dd8-9405-94e6f41a4ff6" />
+
 区别：
 1.编译性语言编译后就可以在平台运行，解释型语言在
 运行期间才编译。
