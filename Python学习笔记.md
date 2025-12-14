@@ -31,11 +31,13 @@ print("Hello World!")
 ```
 运行py文件推荐使用方式：右键点击代码空白处，选择Run
 **二、Python常见bug**
+1.输入错误
 ```
 print(“123”)
 ```
 报错，中文引号
 **注意**：Python中的符号都是要用英文模式下的
+2.语法错误
 ```
   print(123)
 ```
@@ -44,7 +46,9 @@ print(“123”)
 print (123)print (456)
 ```
 两个print不能写在同一行，一个print必须单独写一行，错误信息中遇到**Syntax**说明语法有问题
+```
+print(Hollo World!)
+```
+字符串需要用英文状态下的单引号或又引号。
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzODY4MjM5LC0xMjIzNjk4NDVdfQ==
--->
+
